@@ -1,4 +1,4 @@
-import sys    ####
+import sys
 from ui import View
 from ctrl import Control
 from PyQt5.QtWidgets import QApplication        
