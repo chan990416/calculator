@@ -50,3 +50,14 @@ if __name__ == '__main__':
     view=Calculator()
     sys.exit(app.exec_())
 ###### endof code
+###### endof code###### endof code###### endof code###### endof code###### endof code###### endof code
+###### endof code
+###### endof code
+###### endof code
+
+###### endof code
+###### endof code
+###### endof code
+###### endof code
+
+###### endof code
